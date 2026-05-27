@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+PyJWT
+bcrypt
+sentence-transformers
+faiss-cpu
+deep-translator
+langdetect
+pyarrow
+scikit-learn
+python-dotenv
+pandas
+numpy
+email-validator
+# --- Testing ---
+pytest
+pytest-asyncio
+httpx
+motor
+pymongo

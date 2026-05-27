@@ -1,0 +1,74 @@
+[
+  {
+    "feedback_id": "fb_0eee2b7309d2",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "question_id": 21721,
+    "query": "java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/dbname",
+    "rating": 5,
+    "comment": null,
+    "timestamp": "2026-05-26T08:25:08.421878+00:00"
+  },
+  {
+    "feedback_id": "fb_305052faf450",
+    "user_id": "12c8368d-ecbc-4c25-a081-5b5277a73cd6",
+    "question_id": 1,
+    "query": "how to sort a list",
+    "rating": 4,
+    "comment": "Sangat relevan!",
+    "timestamp": "2026-05-26T08:34:08.696671+00:00"
+  },
+  {
+    "feedback_id": "fb_8e6ae2a07608",
+    "user_id": "849eb7e1-396f-4f62-8b7a-7e6818438bf9",
+    "question_id": 1,
+    "query": "test query 1",
+    "rating": 4,
+    "comment": "Nice",
+    "timestamp": "2026-05-26T08:34:10.029667+00:00"
+  },
+  {
+    "feedback_id": "fb_d8e3666c47b2",
+    "user_id": "849eb7e1-396f-4f62-8b7a-7e6818438bf9",
+    "question_id": 2,
+    "query": "test query 2",
+    "rating": 5,
+    "comment": null,
+    "timestamp": "2026-05-26T08:34:10.037816+00:00"
+  },
+  {
+    "feedback_id": "fb_c579ba573366",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "question_id": 4722,
+    "query": "Python, store a dict in a database",
+    "rating": 5,
+    "comment": null,
+    "timestamp": "2026-05-26T08:41:32.868933+00:00"
+  },
+  {
+    "feedback_id": "fb_ea7b43798f31",
+    "user_id": "63ef2ca7-f518-434f-a320-64136506462d",
+    "question_id": 1,
+    "query": "how to sort a list",
+    "rating": 4,
+    "comment": "Sangat relevan!",
+    "timestamp": "2026-05-27T10:20:24.992946+00:00"
+  },
+  {
+    "feedback_id": "fb_c8668d60b624",
+    "user_id": "781aa390-5725-4188-88ec-dc3854f51591",
+    "question_id": 1,
+    "query": "test query 1",
+    "rating": 4,
+    "comment": "Nice",
+    "timestamp": "2026-05-27T10:20:27.035519+00:00"
+  },
+  {
+    "feedback_id": "fb_0029532e5056",
+    "user_id": "781aa390-5725-4188-88ec-dc3854f51591",
+    "question_id": 2,
+    "query": "test query 2",
+    "rating": 5,
+    "comment": null,
+    "timestamp": "2026-05-27T10:20:27.047920+00:00"
+  }
+]

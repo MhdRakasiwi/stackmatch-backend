@@ -1,0 +1,370 @@
+[
+  {
+    "id": "fa871607-ebf8-4a76-ba53-2f40c339cd61",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "konek database",
+    "tag": "java",
+    "timestamp": "2026-05-26T08:24:31.586084+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "8f882458-925e-46f3-8a05-10a7ffab8935",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "konek database",
+    "tag": "php",
+    "timestamp": "2026-05-26T08:25:19.103821+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "444aab0a-b294-44b9-b703-90ffc3c83935",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "CRUD",
+    "tag": "python",
+    "timestamp": "2026-05-26T08:40:26.031491+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "13c7f5b3-0a1e-4bb7-bbd3-3d1e0c00dce2",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "cara melakukan get data ke database",
+    "tag": "python",
+    "timestamp": "2026-05-26T08:41:01.779521+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "0c1fe22f-a80e-4bf1-a3d5-96593aaa346a",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "swift",
+    "timestamp": "2026-05-26T08:56:28.826051+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "bf7cd332-6969-497b-9f2b-839de97b8d3d",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "php",
+    "timestamp": "2026-05-26T08:58:45.980567+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "3ec909d4-5bfd-4878-a6b5-9d2857ef7d27",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "typescript",
+    "timestamp": "2026-05-26T08:59:11.314645+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "fdce8512-21f8-455c-b296-9b2a254e767e",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "javascript",
+    "timestamp": "2026-05-26T08:59:53.155228+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "9a4ec665-2bc7-4f55-9a3b-acd61bebd27d",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "java",
+    "timestamp": "2026-05-26T09:00:00.027457+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f128faed-53ee-4fe7-8aa7-801943c81649",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "c++",
+    "timestamp": "2026-05-26T09:00:08.561908+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "8cad34a1-73db-475f-b4e3-ce5fdd3aad64",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "c#",
+    "timestamp": "2026-05-26T09:00:15.208759+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "4d885da9-835a-4a55-8bfc-fe6418bc58f2",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "objective-c",
+    "timestamp": "2026-05-26T09:01:39.352502+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "c2b23c1c-b8dd-4f58-a701-b69c186c3326",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "assembly",
+    "timestamp": "2026-05-26T09:02:03.142395+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "665d6742-1c4d-4169-8797-c7c7e3f0d221",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "python",
+    "timestamp": "2026-05-26T09:02:09.242516+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "4874f275-8296-47b8-bc20-03a246037630",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "perl",
+    "timestamp": "2026-05-26T09:02:17.603424+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f9963143-21d7-419c-ac92-2f8ee580722a",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "ruby",
+    "timestamp": "2026-05-26T09:04:13.353401+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "cb98a487-8bb0-44bc-bfb6-5276b6ff75f8",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "go",
+    "timestamp": "2026-05-26T09:04:21.916587+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "a4f92bcc-3976-4d6e-9c96-fa8183681014",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "swift",
+    "timestamp": "2026-05-26T09:04:30.096628+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "801f20d6-6c3c-45d6-86ed-fd304a8e5c88",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "typescript",
+    "timestamp": "2026-05-26T09:04:38.512927+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "b5259d82-e8f4-4376-bd1a-764d310549b5",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "dart",
+    "timestamp": "2026-05-26T09:04:44.957955+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "c8e85615-c7c1-49b9-ac14-a0dbbcb1a9b4",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "rust",
+    "timestamp": "2026-05-26T09:05:03.042475+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "1da31546-3e2f-41e0-9fb9-38feea50cbf0",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya melakukan koneksi dengan database",
+    "tag": "kotlin",
+    "timestamp": "2026-05-26T09:05:08.034951+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "7cd146cb-6076-4a04-b463-565685e1a1eb",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "python",
+    "timestamp": "2026-05-26T09:16:17.517276+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "48808cac-0998-4957-84d3-8b2781dc3e2c",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "python",
+    "timestamp": "2026-05-26T09:19:40.761215+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f5e1ddd1-9c60-473d-b132-70a15844606f",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "swift",
+    "timestamp": "2026-05-26T10:01:34.030372+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "2b450530-0894-4dbe-a327-a60303cb9140",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:01:55.734053+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "675f701e-010f-4d4d-ad3c-ee6d4bcd35f9",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "python",
+    "timestamp": "2026-05-26T10:03:08.521443+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "37b21164-3319-4e53-b323-a70da14f42ad",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHYTON TERHUBUNG DENGAN MYSQL",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:03:23.484544+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "28d7c07c-ca12-4fe1-b0d5-126fd125afcb",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARA PHP TERHUBUNG DENGAN MYSQL",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:03:34.164366+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "31771a4e-4308-4cee-9444-e0092675d2b1",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARANYA MELAKUKAN KONEKSI DENGAN DATABASE",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:04:06.954707+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "59533c96-6c9b-4fe0-be43-c8d26b3d28db",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "BAGAIMANA CARANYA MELAKUKAN KONEKSI DENGAN DATABASE",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:04:35.968645+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f97511ff-f1e3-46f8-8588-c82e1ab03ef3",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "how to password in php",
+    "tag": "php",
+    "timestamp": "2026-05-26T10:05:10.817681+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f3c24803-fc0a-474f-ab82-02fa66a0a8bf",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:30:56.777914+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "6bec36cb-9cff-44b3-929d-2882a00befe4",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:38:27.401319+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "6122969f-1666-4708-b050-70edcb724afa",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:38:29.567316+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "61bedd73-f2ad-43a4-a338-a6158f06b39e",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:38:31.314511+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "2b018ab4-6ead-432f-a0b7-99f10f4bb050",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:38:33.053806+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "e52b0832-7d7f-4a4a-930e-039378f5d174",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "Konek database",
+    "tag": "python",
+    "timestamp": "2026-05-26T12:38:35.112696+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "22405271-4b2e-4a42-a006-ab1f3eb3d7e4",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "bagaimana caranya menghubungkan database mysql",
+    "tag": "java",
+    "timestamp": "2026-05-26T13:35:01.305847+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "77e78d99-5043-4203-8c52-3c46a981c3e2",
+    "user_id": "942565d9-771a-4ad4-bc8b-10722196a355",
+    "query": "bagaimana menghubungkan dengan mysql",
+    "tag": "javascript",
+    "timestamp": "2026-05-26T17:44:03.298616+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "e4c8d360-06ff-4d28-8baf-cf1bb722fd01",
+    "user_id": "942565d9-771a-4ad4-bc8b-10722196a355",
+    "query": "cara menggunakan tuple",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:10:23.814078+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "f739e857-7c02-4d57-b580-422bb79e4464",
+    "user_id": "942565d9-771a-4ad4-bc8b-10722196a355",
+    "query": "cara menggunakan tuple",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:14:05.926668+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "7332e653-5521-45ce-a185-7c6dccd69143",
+    "user_id": "942565d9-771a-4ad4-bc8b-10722196a355",
+    "query": "cara menggunakan tuple",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:14:48.262018+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "282c604b-7c0a-4b7b-a48e-11db38e49a69",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "koneksi python",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:35:15.329101+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "78fa3a9f-1646-4ca3-a7f5-79d3b37ccaff",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "koneksi python",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:37:33.079368+00:00",
+    "result_count": 5
+  },
+  {
+    "id": "69aa4a51-460f-414c-8ac9-f659ae5c866d",
+    "user_id": "7ea54cf4-e12e-44e0-b2ee-47d24056dd42",
+    "query": "how to recv in python",
+    "tag": "python",
+    "timestamp": "2026-05-26T18:40:00.032592+00:00",
+    "result_count": 5
+  }
+]
